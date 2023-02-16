@@ -8,9 +8,13 @@ The goal of this project is to create 2 WebScraping bots and save the relevant i
 
 Done in **.py** using **https requests** and saving the data in a **csv**. The target website is www.engelvoelkers.com filtered by houses in Barcelona.
 
+[see code here](https://github.com/LukazMartin/Web-Scraping/blob/main/source/scraper.py)
+
 ## Second Crawler
 
 Done in **.ipynb** using **Selenium Chrome** and saving the data in a **sqlalchemy db**. The target website is www.homegate.ch filtered by houses in Zurich.
+
+[see code here](https://github.com/LukazMartin/Web-Scraping/blob/main/source/WebScraping.ipynb)
 
 ## Dataset
 
