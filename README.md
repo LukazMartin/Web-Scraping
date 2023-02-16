@@ -6,11 +6,11 @@ The goal of this project is to create 2 WebScraping bots and save the relevant i
 
 ## First Crawler
 
-Done in **.py** and using **https requests** and saving the data in a **csv**. The target website is www.engelvoelkers.com filtered by houses in Barcelona.
+Done in **.py** using **https requests** and saving the data in a **csv**. The target website is www.engelvoelkers.com filtered by houses in Barcelona.
 
 ## Second Crawler
 
-Done in **.ipynb** and using **Selenium Chrome** and saving the data in a **sqlalchemy db**. The target website is www.homegate.ch filtered by houses in Zurich.
+Done in **.ipynb** using **Selenium Chrome** and saving the data in a **sqlalchemy db**. The target website is www.homegate.ch filtered by houses in Zurich.
 
 ## Dataset
 
