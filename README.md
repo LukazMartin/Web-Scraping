@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this project is to create 2 WebScraping bots and safe the relevant information.
+The goal of this project is to create 2 WebScraping bots and save the relevant information.
 
 ## First Crawler
 
