@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this project is to create 2 WebScraping bots with different technologies on different sizes and save the relevant information.
+The goal of this project is to create 2 WebScraping bots with different technologies on different sites and save the relevant information.
 
 ## First Crawler
 
