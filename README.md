@@ -8,7 +8,7 @@ The goal of this project is to create 2 WebScraping bots with different technolo
 
 Done in **.py** using **https requests** and saving the data in a **csv**. The target website is www.engelvoelkers.com filtered by apartments in Barcelona.
 
-[see code here](https://github.com/LukazMartin/Web-Scraping/blob/main/source/scraper.py){:target="_blank"}
+[see code here](https://github.com/LukazMartin/Web-Scraping/blob/main/source/scraper.py)
 
 ## Second Crawler
 
